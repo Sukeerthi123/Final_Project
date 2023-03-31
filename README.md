@@ -1,5 +1,5 @@
 Booking a table on the Little Lemon website
-![image](https://user-images.githubusercontent.com/116960224/229143914-7522dc0d-7a6c-4f52-ab2e-24de2d0c3008.png)
+![image](https://user-images.githubusercontent.com/116960224/229187003-ddffb14a-8ed7-4b96-98d3-184bf21f2966.png)
 
 
 ![image](https://user-images.githubusercontent.com/116960224/229143978-50c6384a-2555-4390-b20d-0220a20f4955.png)
