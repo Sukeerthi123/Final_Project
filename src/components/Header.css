@@ -1,0 +1,49 @@
+header{
+    background-color: #3e574f;
+    display: flex;
+    font-family: "Trirong", serif;
+    
+
+}
+.left{
+    width: 50%;
+    color: white;
+    margin-left: 40px;
+}
+h1{
+    font-size: 50px;
+    margin-bottom: 0;
+}
+h2{
+    font-size: 40px;
+    margin-top: 0;
+    
+}
+button{
+    background-color: yellow;
+    border-radius: 50px;
+    height: 15%;
+    width: 30%;
+    margin-left: 20px;
+    
+    
+}
+.table-button{
+    text-decoration: none;
+    font-size: 20px;
+    color: #3e574f;
+
+}
+
+.left p{
+    max-width: 500px;
+    font-size: 20px;
+}
+.right img{
+    width: 500px;
+    float: right;
+    padding: 30px;
+   border-radius: 20px;
+    object-fit: cover;
+    
+}
